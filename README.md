@@ -13,8 +13,8 @@
 
 4- Invocar al endpoint.
 
-<code>https://spotify_api.test/api/v1/albums?q=Bunbury
-
+<code>GET https://spotify_api.test/api/v1/albums?q=Bunbury
+ 
 Bunbury es un ejemplo de artista, podemos cambiarlo por algun otro.
 
 La respuesta que obtendremos es similar a esta:
