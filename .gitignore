@@ -1,0 +1,11 @@
+/vendor
+/.idea
+Homestead.json
+Homestead.yaml
+.env
+.DS_Store
+storage/framework/views/*
+storage/framework/sessions/*
+storage/debugbar/*
+build/*
+deployments
